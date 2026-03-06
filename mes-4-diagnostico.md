@@ -81,6 +81,8 @@ Crie um documento chamado **"Relatório de Desempenho do Meu PC"**.
 - Lista dos 5 programas que mais consomem recursos
 - Comparação: PC em repouso vs PC com vários programas abertos
 
+Crie a pasta `Mes-4` dentro de `Academia do PC/`. Exporte como PDF e salve em `Academia do PC/Mes-4/`.
+
 ### Checklist
 
 - [ ] Missão 1 — Conhecer o Gerenciador de Tarefas
@@ -161,6 +163,8 @@ Crie um documento chamado **"Antes e Depois da Limpeza"**.
 - Print do armazenamento depois da limpeza
 - Configure o Sensor de Armazenamento e tire um print das configurações
 
+Exporte como PDF e salve em `Academia do PC/Mes-4/`.
+
 ### Checklist
 
 - [ ] Missão 1 — Verificar espaço em disco
@@ -233,6 +237,8 @@ Crie um documento chamado **"Status do Meu Windows"**.
 - Lista de atualizações recentes
 - Configuração do Horário Ativo
 - Print da tela do Windows Update mostrando que está atualizado
+
+Exporte como PDF e salve em `Academia do PC/Mes-4/`.
 
 ### Checklist
 
@@ -309,6 +315,8 @@ Crie um documento chamado **"Auditoria de Programas"**.
 - Quais estavam na inicialização e foram desabilitados
 - Espaço liberado com as desinstalações
 - Tempo de inicialização antes e depois
+
+Exporte como PDF e salve em `Academia do PC/Mes-4/`.
 
 ### Checklist
 

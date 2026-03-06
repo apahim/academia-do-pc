@@ -87,6 +87,8 @@ Crie um documento chamado **"Dicionário de Hardware"**.
 - Inclua uma analogia para cada um (ex: "CPU é como o cérebro")
 - Adicione uma imagem de cada componente (use Inserir > Imagem > Pesquisar na Web)
 
+Crie a pasta `Mes-3` dentro de `Academia do PC/`. Exporte como PDF e salve em `Academia do PC/Mes-3/`.
+
 ### Checklist
 
 - [ ] Missão 1 — Conhecer a CPU
@@ -162,6 +164,8 @@ Crie um documento chamado **"Ficha Técnica do Meu PC"**.
 - Prints de cada tela onde você encontrou as informações
 - Uma avaliação: o que está bom e o que poderia ser melhor no seu computador
 
+Exporte como PDF e salve em `Academia do PC/Mes-3/`.
+
 ### Checklist
 
 - [ ] Missão 1 — Informações do sistema
@@ -234,6 +238,8 @@ Crie um documento chamado **"Mapa de Periféricos"**.
 - Inclua prints das telas de configuração
 - Anote se há algo que precisa ser melhorado (mouse lento, teclado com layout errado etc.)
 
+Exporte como PDF e salve em `Academia do PC/Mes-3/`.
+
 ### Checklist
 
 - [ ] Missão 1 — Tipos de conexão
@@ -263,12 +269,11 @@ Crie um documento chamado **"Mapa de Periféricos"**.
 ### Missão 2 — Usar o Google Drive
 
 1. Acesse [drive.google.com](https://drive.google.com)
-2. Crie uma pasta chamada "Academia do PC"
-3. Faça upload de arquivos: clique em **Novo > Upload de arquivo**
-4. Faça upload de uma pasta inteira: **Novo > Upload de pasta**
-5. Organize os arquivos em pastas dentro do Drive
+2. Faça upload da sua pasta `Academia do PC` inteira: clique em **Novo > Upload de pasta** e selecione a pasta
+3. O Drive vai manter a mesma estrutura de pastas que você tem no computador (`Mes-1/`, `Mes-2/`, `Mes-3/`, `Prints/`)
+4. Verifique se tudo foi enviado corretamente navegando pelas pastas no Drive
 
-> **Dica:** Seus documentos do Google Docs e Planilhas já estão salvos no Google Drive automaticamente.
+> **Dica:** Seus documentos do Google Docs e Planilhas já estão salvos no Google Drive automaticamente. Mova-os para dentro da pasta `Academia do PC` no Drive para manter tudo junto.
 
 ### Missão 3 — Compartilhar Arquivos pelo Drive
 
@@ -282,8 +287,8 @@ Crie um documento chamado **"Mapa de Periféricos"**.
 
 Backup é uma cópia de segurança. Se algo acontecer com seu computador, seus arquivos estão seguros.
 
-1. Selecione os arquivos mais importantes da sua pasta `Treinamento PC`
-2. Faça upload de todos para o Google Drive
+1. Verifique se toda a sua pasta `Academia do PC` está no Google Drive
+2. Se faltou algum arquivo, faça upload agora
 3. Verifique se os arquivos estão lá abrindo o Drive em outro dispositivo (celular, por exemplo)
 4. Pesquise: "Google Drive para desktop" — é um programa que sincroniza automaticamente
 
@@ -299,20 +304,19 @@ Backup é uma cópia de segurança. Se algo acontecer com seu computador, seus a
 
 ### Projeto da Semana
 
-Organize seu Google Drive com a seguinte estrutura:
+Verifique que seu Google Drive espelha a estrutura local:
 
 ```
 Academia do PC/
-  Mês 1 - Fundamentos/
-  Mês 2 - Produtividade/
-  Mês 3 - Hardware/
-  Projetos/
+  Mes-1/
+  Mes-2/
+  Mes-3/
   Prints/
 ```
 
-- Mova todos os documentos e projetos que criou até agora para as pastas corretas
-- Faça upload dos prints e arquivos locais importantes
-- Tire um print do Drive organizado
+- Confirme que todos os PDFs exportados e arquivos criados até agora estão nas pastas corretas
+- Mova os Google Docs e Planilhas que criou para dentro de `Academia do PC/` no Drive
+- Tire um print do Drive organizado e salve em `Academia do PC/Prints/`
 
 ### Checklist
 

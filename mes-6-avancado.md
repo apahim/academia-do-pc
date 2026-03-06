@@ -39,7 +39,7 @@ Semanas 21 a 24. O mês final: você aprende a usar o Prompt de Comando, entende
 2. Digite `cd Documentos` para entrar na pasta Documentos
 3. Digite `cd ..` para voltar uma pasta
 4. Digite `cd \` para ir direto à raiz do disco
-5. Para ir a uma pasta específica: `cd C:\Users\SeuNome\Documentos\Treinamento PC`
+5. Para ir a uma pasta específica: `cd C:\Users\SeuNome\Documentos\Academia do PC`
 
 > **Dica:** Comece a digitar o nome da pasta e pressione `Tab` para autocompletar.
 
@@ -52,7 +52,7 @@ Semanas 21 a 24. O mês final: você aprende a usar o Prompt de Comando, entende
 5. `del teste.txt` — deleta o arquivo
 6. `rmdir NovaPasta` — remove a pasta (precisa estar vazia)
 
-Pratique criando e removendo pastas e arquivos dentro de `Treinamento PC`.
+Pratique criando e removendo pastas e arquivos dentro de `Academia do PC`.
 
 ### Missão 4 — Comandos de Informação
 
@@ -105,6 +105,8 @@ Crie um documento chamado **"Guia de Comandos do CMD"**.
   2. Digite os comandos que organizam pastas (mkdir, etc.), um por linha
   3. Salve como `organizar.bat` (mude o tipo para "Todos os arquivos")
   4. Execute o arquivo .bat com dois cliques e veja os comandos rodarem automaticamente
+
+Crie a pasta `Mes-6` dentro de `Academia do PC/`. Exporte o guia como PDF e salve o PDF e o arquivo `organizar.bat` em `Academia do PC/Mes-6/`.
 
 ### Checklist
 
@@ -190,6 +192,8 @@ Crie um documento chamado **"Mapa da Minha Rede"**.
 - Velocidade da internet (pesquise "teste de velocidade" no Google)
 - Qual banda Wi-Fi você está usando (2.4 GHz ou 5 GHz)
 
+Exporte como PDF e salve em `Academia do PC/Mes-6/`.
+
 ### Checklist
 
 - [ ] Missão 1 — IP e DNS
@@ -271,6 +275,8 @@ Crie um documento chamado **"Guia Prático de IA"**.
 - Limitações da IA (quando não confiar)
 - Um exemplo prático de problema que você resolveu com ajuda da IA
 
+Exporte como PDF e salve em `Academia do PC/Mes-6/`.
+
 ### Checklist
 
 - [ ] Missão 1 — Conhecer ferramentas de IA
@@ -292,22 +298,26 @@ Crie um documento chamado **"Guia Prático de IA"**.
 1. Releia o checklist de cada semana
 2. Identifique semanas ou missões que ficaram incompletas
 3. Complete o que faltar (não precisa ser perfeito, mas tente completar tudo)
-4. Atualize sua planilha de XP com tudo que completou
+4. Revise sua planilha de progresso com tudo que completou
 
-### Missão 2 — Criar a Pasta do Projeto Final
+### Missão 2 — Verificar a Pasta do Curso
 
-Crie a seguinte estrutura na pasta `Treinamento PC > Projetos`:
+Sua pasta `Academia do PC/` já contém todo o trabalho organizado por mês. Verifique se está completa:
 
 ```
-Projeto Final/
-  Documentos/        → todos os documentos que criou no curso
-  Prints/            → prints de tela importantes
-  Guias/             → guias que você escreveu (segurança, atalhos, CMD)
-  Planilhas/         → planilha de XP e outras que criou
-  Relatório Final/   → o relatório da Missão 3
+Academia do PC/
+  Mes-1/    → fundamentos, projetos e PDFs do mês 1
+  Mes-2/    → produtividade, planilha de progresso
+  Mes-3/    → hardware, ficha técnica, periféricos
+  Mes-4/    → diagnóstico, limpeza, atualizações
+  Mes-5/    → segurança, senhas, privacidade
+  Mes-6/    → CMD, redes, IA
+  Prints/   → prints de tela do curso todo
 ```
 
-Mova todos os trabalhos do curso para as pastas correspondentes.
+1. Navegue por cada pasta e confirme que os PDFs e arquivos estão lá
+2. Se faltar algo, exporte e salve agora
+3. Crie a pasta `Relatorio-Final/` dentro de `Academia do PC/` para o relatório da próxima missão
 
 ### Missão 3 — Escrever o Relatório Final
 
@@ -319,14 +329,16 @@ Estrutura:
 3. **Habilidades adquiridas**: lista das coisas que você sabe fazer agora
 4. **Desafios**: o que foi mais difícil e como superou
 5. **Próximos passos**: o que quer aprender depois
-6. **XP total e ranking**: seu XP final e o título alcançado
+6. **Progresso**: quantas semanas e missões completou
+
+Exporte como PDF e salve em `Academia do PC/Relatorio-Final/`.
 
 ### Missão 4 — Compactar e Entregar
 
 1. Verifique se todos os arquivos estão nas pastas corretas
-2. Abra o Explorador de Arquivos e vá até a pasta `Projeto Final`
+2. Abra o Explorador de Arquivos e vá até a pasta `Academia do PC`
 3. Selecione a pasta, clique com botão direito > "Compactar para arquivo ZIP"
-4. Renomeie para `Projeto_Final_[SeuNome].zip`
+4. Renomeie para `Academia-do-PC_[SeuNome].zip`
 5. Faça upload do ZIP para o Google Drive
 6. Compartilhe o link com quem estiver acompanhando seu progresso
 
@@ -348,9 +360,9 @@ Estrutura:
 
 O projeto final é a soma de tudo:
 
-- [ ] Pasta `Projeto Final` organizada com todos os trabalhos do curso
-- [ ] Relatório Final completo no Google Docs
-- [ ] Planilha de XP atualizada com o total e ranking
+- [ ] Pasta `Academia do PC` completa e organizada com todos os trabalhos do curso
+- [ ] Relatório Final completo no Google Docs e exportado como PDF
+- [ ] Planilha de progresso atualizada
 - [ ] Tudo compactado em um arquivo ZIP
 - [ ] Upload feito no Google Drive
 - [ ] Link compartilhado

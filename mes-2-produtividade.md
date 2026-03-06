@@ -78,6 +78,8 @@ Estrutura sugerida:
 - Lista dos atalhos com descrição
 - Texto em negrito para os atalhos
 
+Crie a pasta `Mes-2` dentro de `Academia do PC/`. Exporte o guia como PDF e salve em `Academia do PC/Mes-2/`.
+
 ### Checklist
 
 - [ ] Missão 1 — Criar um documento
@@ -107,7 +109,7 @@ Estrutura sugerida:
 ### Missão 2 — Inserir Imagens
 
 1. Clique em **Inserir > Imagem > Fazer upload do computador**
-2. Selecione uma imagem da sua pasta `Treinamento PC > Imagens`
+2. Selecione uma imagem da sua pasta `Academia do PC/Prints/`
 3. Depois de inserir, clique na imagem e use as opções de alinhamento (Em linha, Quebrar texto, etc.)
 4. Redimensione arrastando os cantos da imagem
 5. Teste também: **Inserir > Imagem > Pesquisar na Web** para encontrar imagens direto do Docs
@@ -148,6 +150,8 @@ Requisitos:
 - Uma tabela com dados
 - Cabeçalho e rodapé
 - Mínimo 2 páginas
+
+Exporte como PDF e salve em `Academia do PC/Mes-2/`.
 
 ### Checklist
 
@@ -229,7 +233,7 @@ Crie um documento colaborativo chamado **"Diário de Aprendizado"**.
 - Compartilhe com alguém (amigo, familiar) como Editor
 - Cada pessoa escreve pelo menos 3 parágrafos
 - Use comentários para dar feedback no texto do outro
-- Exporte o documento final como PDF: **Arquivo > Fazer download > Documento PDF**
+- Exporte o documento final como PDF: **Arquivo > Fazer download > Documento PDF** e salve em `Academia do PC/Mes-2/`
 
 ### Checklist
 
@@ -323,13 +327,16 @@ A fórmula `=SE()` toma decisões automáticas com base em uma condição.
 
 ### Projeto da Semana
 
-Crie uma **planilha de controle de XP** do seu progresso na Academia do PC.
+Crie uma **Planilha de Progresso do Curso** para acompanhar sua evolução na Academia do PC.
 
-Colunas: Semana, Atividade, Tipo (Missão/Desafio/Projeto), XP Ganho
-- Preencha com tudo que você completou até agora
-- Use SOMA para calcular o XP total
-- Descubra seu ranking atual comparando com a tabela do [README](README.md)
+Colunas: `Semana`, `Missoes Completadas` (número), `Observacoes`
+- Preencha com todas as semanas que você completou até agora (1 a 8)
+- Use `=SOMA()` para calcular o total de missões completadas
+- Use `=CONT.VALORES()` para contar quantas semanas têm observações
+- Aplique formatação condicional: verde se completou todas as missões da semana, amarelo se parcial
 - Formate a planilha com cores e bordas
+
+Faça download da planilha e salve em `Academia do PC/Mes-2/`.
 
 ### Checklist
 

@@ -85,6 +85,8 @@ Crie um documento chamado **"Status de Segurança do Meu PC"**.
 - Configurações de proteção ativadas
 - Histórico de proteção (ameaças encontradas ou "nenhuma ameaça")
 
+Crie a pasta `Mes-5` dentro de `Academia do PC/`. Exporte como PDF e salve em `Academia do PC/Mes-5/`.
+
 ### Checklist
 
 - [ ] Missão 1 — Conhecer o Windows Defender
@@ -163,6 +165,8 @@ Crie um documento chamado **"Meu Plano de Senhas"** (guarde em local seguro ou n
 - Para cada um, anote se a senha é forte (sem anotar a senha em si)
 - Marque quais têm verificação em duas etapas ativada
 - Plano de ação: quais senhas precisam ser trocadas
+
+Exporte como PDF e salve em `Academia do PC/Mes-5/`.
 
 ### Checklist
 
@@ -245,6 +249,8 @@ Crie um guia chamado **"Como Não Cair em Golpes na Internet"**.
 - Dicas gerais de segurança
 - Compartilhe o guia com alguém da sua família
 
+Exporte como PDF e salve em `Academia do PC/Mes-5/`.
+
 ### Checklist
 
 - [ ] Missão 1 — Emails de phishing
@@ -321,6 +327,8 @@ Crie um documento chamado **"Auditoria de Privacidade"**.
 - Lista de permissões de apps que foram revogadas
 - Configurações de privacidade alteradas no Windows e Google
 - Checklist de boas práticas de privacidade que você vai seguir
+
+Exporte como PDF e salve em `Academia do PC/Mes-5/`.
 
 ### Checklist
 

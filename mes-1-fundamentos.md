@@ -44,15 +44,15 @@ Deixe o computador com a sua cara.
 
 > **Dica:** Você pode clicar com o botão direito na área de trabalho para acessar opções rápidas de personalização.
 
-### Missão 3 — Criar Pastas de Treinamento
+### Missão 3 — Criar Pastas do Curso
 
 Toda a sua organização no curso começa aqui.
 
 1. Abra o Explorador de Arquivos (`Win + E`)
 2. Navegue até **Documentos** no painel lateral esquerdo
 3. Clique com o botão direito em uma área vazia > Novo > Pasta
-4. Nomeie a pasta como `Treinamento PC`
-5. Abra a pasta `Treinamento PC` e crie dentro dela três subpastas: `Documentos`, `Imagens`, `Projetos`
+4. Nomeie a pasta como `Academia do PC`
+5. Abra a pasta `Academia do PC` e crie dentro dela duas subpastas: `Prints` e `Mes-1`
 
 > **Dica:** O atalho `Ctrl + Shift + N` cria uma pasta nova direto, sem precisar do menu.
 
@@ -63,7 +63,7 @@ Prints de tela são úteis para documentar o que você faz.
 1. Pressione `Win + Shift + S`. A tela vai escurecer e aparecer uma barra no topo
 2. Selecione a área que quer capturar arrastando o mouse
 3. A imagem fica copiada. Abra o Paint (pesquise "Paint" no menu Iniciar) e cole com `Ctrl + V`
-4. Salve a imagem na pasta `Treinamento PC > Imagens`
+4. Salve a imagem na pasta `Academia do PC/Prints/`
 
 > **Dica:** `Win + Print Screen` captura a tela inteira e salva automaticamente em Imagens > Capturas de tela.
 
@@ -98,11 +98,13 @@ Conteúdo:
 - O que você aprendeu nesta semana
 - Cole o print da sua área de trabalho organizada
 
+Depois de pronto, exporte como PDF: **Arquivo > Fazer download > Documento PDF (.pdf)** e salve em `Academia do PC/Mes-1/`.
+
 ### Checklist
 
 - [ ] Missão 1 — Explorar a área de trabalho
 - [ ] Missão 2 — Personalizar o computador
-- [ ] Missão 3 — Criar pastas de treinamento
+- [ ] Missão 3 — Criar pastas do curso
 - [ ] Missão 4 — Capturar a tela
 - [ ] Missão 5 — Recursos de acessibilidade
 - [ ] Desafio da semana
@@ -119,7 +121,7 @@ Conteúdo:
 
 1. Abra o **Bloco de Notas** (pesquise "Bloco de Notas" no menu Iniciar)
 2. Escreva qualquer texto
-3. Salve com `Ctrl + S` na pasta `Treinamento PC > Documentos`
+3. Salve com `Ctrl + S` na pasta `Academia do PC/Mes-1/`
 4. Crie pelo menos 3 arquivos de texto diferentes
 
 > **Dica:** Preste atenção na extensão do arquivo. Arquivos do Bloco de Notas são `.txt`.
@@ -139,7 +141,7 @@ Conteúdo:
 1. Selecione um arquivo e copie com `Ctrl + C`
 2. Navegue até outra pasta e cole com `Ctrl + V` — agora existem duas cópias
 3. Para **mover** (sem deixar cópia), use `Ctrl + X` (recortar) e depois `Ctrl + V`
-4. Pratique movendo arquivos entre as pastas `Documentos`, `Imagens` e `Projetos`
+4. Pratique movendo arquivos entre as pastas dentro de `Academia do PC/Mes-1/`
 
 > **Dica:** Você pode selecionar vários arquivos de uma vez segurando `Ctrl` e clicando em cada um.
 
@@ -155,19 +157,19 @@ Conteúdo:
 **Cenário:** Você recebeu uma pasta com 10 arquivos bagunçados, sem nomes claros (Documento1.txt, foto.jpg, arquivo.pdf etc).
 
 **Resolver:**
-1. Crie uma pasta chamada `Organizado` dentro de `Treinamento PC`
+1. Dentro de `Academia do PC/Mes-1/`, crie uma pasta chamada `Semana-2`
 2. Dentro dela, crie subpastas por tipo: `Textos`, `Imagens`, `PDFs`
 3. Renomeie cada arquivo com um nome descritivo
 4. Mova cada arquivo para a subpasta correta
 
 ### Projeto da Semana
 
-Crie uma pasta chamada **"Projeto Escola"** dentro de `Treinamento PC > Projetos`.
+Crie uma pasta chamada **"Projeto-Escola"** dentro de `Academia do PC/Mes-1/`.
 
 Dentro dela:
 - Crie 3 arquivos de texto com anotações sobre o que você aprendeu
 - Organize tudo com nomes claros
-- Tire um print da pasta organizada
+- Tire um print da pasta organizada e salve em `Academia do PC/Prints/`
 
 ### Checklist
 
@@ -221,7 +223,7 @@ Favoritos são atalhos para sites que você quer acessar de novo.
 1. Pesquise no Google "exemplo PDF download" e baixe um arquivo PDF
 2. Pesquise uma imagem, clique com botão direito > "Salvar imagem como"
 3. Encontre os arquivos baixados: abra o Explorador de Arquivos e vá até a pasta **Downloads**
-4. Mova os arquivos baixados para as pastas corretas em `Treinamento PC`
+4. Mova os arquivos baixados para as pastas corretas em `Academia do PC/Mes-1/`
 
 > **Dica:** No navegador, pressione `Ctrl + J` para ver todos os downloads recentes.
 
@@ -247,6 +249,8 @@ Conteúdo:
 - Para que serve
 - Adicione todos os 5 aos seus favoritos organizados em uma pasta
 
+Exporte como PDF e salve em `Academia do PC/Mes-1/`.
+
 ### Checklist
 
 - [ ] Missão 1 — Pesquisar no Google
@@ -266,7 +270,7 @@ Conteúdo:
 ### Missão 1 — Criar Estrutura de Pastas para um Projeto
 
 1. Pense em um projeto (pode ser fictício): "Trabalho de História"
-2. Na pasta `Treinamento PC > Projetos`, crie a pasta do projeto
+2. Na pasta `Academia do PC/Mes-1/`, crie a pasta do projeto
 3. Dentro dela, crie subpastas: `Pesquisa`, `Imagens`, `Rascunhos`, `Final`
 4. Crie alguns arquivos de teste em cada pasta
 
@@ -311,11 +315,11 @@ ZIP é um formato que compacta arquivos, reduzindo o tamanho e juntando vários 
 
 ### Projeto da Semana
 
-Organize toda a sua pasta `Treinamento PC`:
-- Verifique se todos os arquivos das semanas anteriores estão nas pastas certas
+Organize toda a sua pasta `Academia do PC`:
+- Verifique se todos os arquivos das semanas anteriores estão nas pastas certas dentro de `Mes-1/`
 - Renomeie arquivos que ainda tenham nomes genéricos
-- Crie um arquivo de texto chamado `indice.txt` listando tudo que tem dentro
-- Comprima toda a pasta `Treinamento PC` em um arquivo ZIP
+- Crie um arquivo de texto chamado `indice.txt` na raiz de `Academia do PC/` listando tudo que tem dentro
+- Comprima toda a pasta `Academia do PC` em um arquivo ZIP
 
 ### Checklist
 

@@ -46,33 +46,6 @@ Saber pesquisar é a habilidade mais importante da informática. Quem sabe pesqu
 
 ---
 
-## Sistema de Jogo
-
-### XP (Experiência)
-
-| Atividade | XP |
-|---|---|
-| Missão simples | 10 XP |
-| Missão média | 20 XP |
-| Desafio prático | 30 XP |
-| Projeto semanal | 50 XP |
-
-### Ranking
-
-| XP Necessário | Título |
-|---|---|
-| 0 | Novato |
-| 200 | Explorador |
-| 400 | Usuário |
-| 700 | Investigador |
-| 1000 | Guardião Digital |
-| 1400 | Técnico |
-| 1800 | Hacker |
-| 2200 | Engenheiro |
-| 2600 | Mestre do PC |
-
----
-
 ## Estrutura do Curso
 
 Duração: **6 meses (24 semanas)**
@@ -169,25 +142,6 @@ Termos técnicos que aparecem no curso, explicados de forma simples.
 | **Terminal / Prompt de Comando / CMD** | Tela onde você digita comandos em texto para controlar o computador |
 | **PowerShell** | Terminal mais moderno do Windows, com comandos mais poderosos que o CMD |
 | **Script** | Arquivo de texto com uma sequência de comandos que o computador executa automaticamente |
-
----
-
-## Tracker de XP
-
-Use esta tabela para acompanhar seu progresso desde a Semana 1. Copie para o Google Planilhas ou marque direto aqui.
-
-| Semana | Atividade | Tipo | XP | Feito? |
-|---|---|---|---|---|
-| 1 | Missões 1–4 | Missão | 40 | |
-| 1 | Desafio da Semana | Desafio | 30 | |
-| 1 | Projeto da Semana | Projeto | 50 | |
-| 2 | Missões 1–4 | Missão | 40 | |
-| 2 | Desafio da Semana | Desafio | 30 | |
-| 2 | Projeto da Semana | Projeto | 50 | |
-| ... | ... | ... | ... | |
-| **Total** | | | **/ 2880** | |
-
-> **Dica:** No Google Planilhas, use `=SOMA()` na coluna XP para calcular o total automaticamente. Compare com a tabela de [Ranking](#ranking) para descobrir seu título.
 
 ---
 
